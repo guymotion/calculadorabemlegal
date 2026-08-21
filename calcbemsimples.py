@@ -14,5 +14,3 @@ elif op == "/":
         print("Resultado:", n1 / n2)
     else:
         print("Erro: Divisão por zero!")
-else:
-    print("Operação inválida!")
